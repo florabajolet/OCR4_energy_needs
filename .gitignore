@@ -1,0 +1,7 @@
+/figs
+/old
+/__pycache__
+/.ipynb_checkpoints
+*.csv
+*.json
+*.pptx
